@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab4b</string>
+    <string name="constrainLayoutText">Constraint Layout needs at least ONE horizontal and ONE vertical constraints to define the views within it.</string>
+    <string name="relativeLayoutText">Relative Layout utilizes the relationship with each other and parents to define the view\'s position."</string>
+    <string name="gridLayoutText">Grid Layout arranges the views in distributed rows and columns manner.</string>
+    <string name="constrainLayoutButtonText">CONSTRAINT LAYOUT</string>
+    <string name="relativeLayoutButtonText">RELATIVE LAYOUT</string>
+    <string name="gridLayoutButtonText">GRID LAYOUT</string>
+    <string name="main_title">HOME MENU</string>
+    <string name="subtitle">Using Linear Layout</string>
+    <string name="calculatorSDisplayHint">Calculator</string>
+    <string name="gridLayoutTitle">Grid Layout</string>
+    <string name="relativeLayoutTitle">Relative Layout</string>
+    <string name="constraintLayoutTitle">Constraint Layout</string>
+    <string name="mainActivityTitle">Home</string>
+</resources>
